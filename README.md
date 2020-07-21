@@ -1,3 +1,5 @@
+![](https://i.imgur.com/ugF1sPz.png)
+
 # cookcrosshair - A very simple FiveM crosshair editor
 Let's being honest, a lot of people have an ingame crosshair, it's even available in some screens... 
 So ! to make it fairplay to everyone i made a very simple script to edit and use a built-in crosshair into FiveM.
