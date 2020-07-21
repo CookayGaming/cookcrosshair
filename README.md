@@ -14,7 +14,7 @@ It's not perfect, but it should do the job.
 - - **crosse :** To **edit** the crosshair
 - - **crossr :** To **reset** the crosshair
 - To add the options in your menus, You might want to **trigger the events** from your own scripts :
-``TriggerEvent("cookcrosshair:active")``
-``TriggerEvent("cookcrosshair:reset")``
-``TriggerEvent("cookcrosshair:edit")``
+- ``TriggerEvent("cookcrosshair:active")``
+- ``TriggerEvent("cookcrosshair:reset")``
+- ``TriggerEvent("cookcrosshair:edit")``
 - Add, remove anything you want, **from now on that is your script !**
