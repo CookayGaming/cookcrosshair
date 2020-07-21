@@ -5,7 +5,7 @@ Let's being honest, a lot of people have an ingame crosshair, it's even availabl
 So ! to make it fairplay to everyone i made a very simple script to edit and use a built-in crosshair into FiveM.
 It's not perfect, but it should do the job.
 
-- [FiveM Forums](waiting for the url)
+- [FiveM Forums](https://forum.cfx.re/t/release-standalone-cookcrosshair-built-in-crosshair-editor/1450021)
 - [Video Preview](https://streamable.com/41qq12)
 
 ## Installation Instructions
